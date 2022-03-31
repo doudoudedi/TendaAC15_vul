@@ -14,6 +14,8 @@ Official website ：https://www.tendacn.com/
 
 link:：https://www.tendacn.com/download/detail-3851.html
 
+name：US_AC15V1.0BR_V15.03.05.20_multi_TDE01.bin
+
 #### Vulnerability1
 
 ##### Detail
